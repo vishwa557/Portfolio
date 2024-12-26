@@ -24,7 +24,7 @@ export default function Navbar() {
             className="flex-shrink-0"
           >
             <Link to="/" className="text-2xl font-bold text-gray-900">
-              Portfolio
+              Portfolio.v
             </Link>
           </motion.div>
           
